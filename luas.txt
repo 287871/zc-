@@ -1,0 +1,314 @@
+https://aimware.net/forum/thread/147129,[Release] QuickPeek + Teleport (auto update added),Chicken4676,https://raw.githubusercontent.com/Aimware0/aimware_scripts/main/QuickPeek%20+%20Teleport.lua
+https://aimware.net/forum/thread/147209,[Release] Semirage AA Indicator + Voterevealer,tnmcmyte,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Semirage AA Indicator + Voterevealer.lua
+https://aimware.net/forum/thread/142782,[Release] BAIM ON KEY (due to the latest update),zeenwee,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] BAIM ON KEY (due to the latest update).lua
+https://aimware.net/forum/thread/140454,[Release] Indicator Library (with example indicators),helloabcdf123,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Indicator Library (with example indicators).lua
+https://aimware.net/forum/thread/106496,[Release] Bomb Info (UPDATED FOR V5),Cheeseot,https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Bomb%20Timer.lua
+https://aimware.net/forum/thread/128304,[Release] Long Jump on Edge Jump [v5],uvxxvu,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Long Jump on Edge Jump [v5].lua
+https://aimware.net/forum/thread/141694,[Release] Spectator List + Keybinds List + Watermark,thekorol,https://raw.githubusercontent.com/thekorol/Aimware-luas/master/Spectator%20List.lua
+https://aimware.net/forum/thread/145366,[Release] RGB Watermark & More,Zerdos,https://raw.githubusercontent.com/zer420/Widgets/main/widgets.lua
+https://aimware.net/forum/thread/147098,[Release] Minimum damage override (With Indicator),Froggie,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Minimum damage override (With Indicator).lua
+https://aimware.net/forum/thread/128054,[Release] V5 Blockbot,ReinhardtVomLohengramm,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] V5 Blockbot.lua
+https://aimware.net/forum/thread/132953,[Release] Chat breaker,zuli,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Chat breaker.lua
+https://aimware.net/forum/thread/147031,[Release] Danger Zone Speedhack,Zerdos,https://raw.githubusercontent.com/zer420/DZ-Fasthop/main/Fasthop.lua
+https://aimware.net/forum/thread/146773,[Release] x88menu recode + Framework,Squidoodle,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] x88menu recode + Framework.lua
+https://aimware.net/forum/thread/144904,[Release] leg fucker,Eagle,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] leg fucker.lua
+https://aimware.net/forum/thread/129561,[Release] ESP On Dead,Rickyy,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] ESP On Dead.lua
+https://aimware.net/forum/thread/146774,[Release] Walkbot,Chicken4676,https://raw.githubusercontent.com/Aimware0/aimware_scripts/main/walkbot.lua
+https://aimware.net/forum/thread/146935,[Release] Chams Keybinds,usapude,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Chams Keybinds.lua
+https://aimware.net/forum/thread/146925,[Release] autorun manager,Chicken4676,https://raw.githubusercontent.com/Aimware0/aimware_scripts/main/lua_autorun_manager.lua
+https://aimware.net/forum/thread/110019,[Release] Player Chat Info,494097564,https://raw.githubusercontent.com/SpriteOvO/aw-lua-scripts/master/PlayerChatInfo.lua
+https://aimware.net/forum/thread/145417,[Release] Onetap Spectators & Keybinds List,thekorol,https://raw.githubusercontent.com/thekorol/Aimware-luas/master/Onetap%20Keybind%26Speclist.lua
+https://aimware.net/forum/thread/143817,[Release] BetterUI,Flangert_o,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] BetterUI.lua
+https://aimware.net/forum/thread/146520,[Release] Simple Minimum Damage Indicator,Squidoodle,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Simple Minimum Damage Indicator.lua
+https://aimware.net/forum/thread/132699,[Release] Fortnite Hud,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/Fortnite%20Hud/FortniteHud.lua
+https://aimware.net/forum/thread/128278,[Release] Autobuy by Rab [Ported to V5],Clipper,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Autobuy by Rab [Ported to V5].lua
+https://aimware.net/forum/thread/145310,[Release] force crosshair,D1versantniK,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] force crosshair.lua
+https://aimware.net/forum/thread/101223,[Release] team damage scoreboard,il-marc,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] team damage scoreboard.lua
+https://aimware.net/forum/thread/133413,[Release] Semi Rage Helper,JohnK.,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Semi Rage Helper.lua
+https://aimware.net/forum/thread/145314,[Release] Sloppy enemy ping indicator,90D5p33D,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Sloppy enemy ping indicator.lua
+https://aimware.net/forum/thread/146452,[Release] switch desync and manual aa with indicators,tripped,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] switch desync and manual aa with indicators.lua
+https://aimware.net/forum/thread/146427,[Release] Sestain's Script (1.1),Sestain,https://raw.githubusercontent.com/Sestain/Aimware-Luas/master/Sestains%20Script/Sestains%20Script.lua
+https://aimware.net/forum/thread/145338,[Release] FD Fix (maybe),Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] FD Fix (maybe).lua
+https://aimware.net/forum/thread/146313,[Release] [Updated] Save player profiles,Chicken4676,https://raw.githubusercontent.com/Aimware0/aimware_scripts/main/profiler.lua
+https://aimware.net/forum/thread/139569,[Release] Head changer,Cheeseot,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Head changer.lua
+https://aimware.net/forum/thread/145644,[Release] Minimum damage indicator,hemuyang,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Minimum damage indicator.lua
+https://aimware.net/forum/thread/129852,[Release] Manual AA with arrow indicators,Frogg,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Manual AA with arrow indicators.lua
+https://aimware.net/forum/thread/143823,[Release] Hentai KillsayDeathsay,xomhvh,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Hentai KillsayDeathsay.lua
+https://aimware.net/forum/thread/128158,[Release] [Onyx] Mass Invite,OurmineOGTv,https://raw.githubusercontent.com/Ourmine-Onyx/aimware/main/%5BOnyx%5D%20Mass%20Invite.lua
+https://aimware.net/forum/thread/145833,[Release] Ragdoll editor,BQJ,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Ragdoll editor.lua
+https://aimware.net/forum/thread/145050,[Release] Scope Crosshair,thekorol,https://raw.githubusercontent.com/thekorol/Aimware-luas/master/scope_crosshair.lua
+https://aimware.net/forum/thread/145292,[Release] Custom Scope Overlay by Eagle,Eagle,https://raw.githubusercontent.com/aimware-eagle/aimware-luas/main/customscopeoverlay.lua
+https://aimware.net/forum/thread/145882,[Release] Adaptive FPS saver,Squidoodle,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Adaptive FPS saver.lua
+https://aimware.net/forum/thread/145866,[Release] Easy Crosshair editor,BQJ,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Easy Crosshair editor.lua
+https://aimware.net/forum/thread/128092,[Release] Grenade Helper for v5,TitanumIchigo,https://raw.githubusercontent.com/H1M4W4R1/AWGH-2/master/gHelper.lua
+https://aimware.net/forum/thread/145679,[Release] Best min dmg override (Min dmg indicator),zhawwyaenn,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Best min dmg override (Min dmg indicator).lua
+https://aimware.net/forum/thread/133713,[Release] oneway indicator,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] oneway indicator.lua
+https://aimware.net/forum/thread/145783,[Release] Fog Color Modification,regardlesscs,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fog Color Modification.lua
+https://aimware.net/forum/thread/132534,[Release] Legit Anti-Aim For RageBot,Rickyy,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Legit Anti-Aim For RageBot.lua
+https://aimware.net/forum/thread/144047,[Release] Anti-aim circle with indicators,razor50333,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Anti-aim circle with indicators.lua
+https://aimware.net/forum/thread/145400,[Release] Theme Manager ,90D5p33D,https://raw.githubusercontent.com/GraterThumbleed/ThemeManager/main/ThemeManager.lua
+https://aimware.net/forum/thread/145596,[Release] Shared ESP,stacky,https://raw.githubusercontent.com/stqcky/SharedESP/main/SharedESP.lua
+https://aimware.net/forum/thread/129399,[Release] [Onyx] FakePrime,OurmineOGTv,https://raw.githubusercontent.com/Onyx-Programming/onyx-aimware-lua/master/%5BOnyx%5D%20FakePrime.lua
+https://aimware.net/forum/thread/143741,[Release] Capsule Drawing,Scape,https://raw.githubusercontent.com/lennonc1atwit/Luas/master/GetCapsule.lua
+https://aimware.net/forum/thread/145534,[Release] noscope for auto,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] noscope for auto.lua
+https://aimware.net/forum/thread/98234,[Release] Extra Indicators,- Luiz,https://raw.githubusercontent.com/itisluiz/aimware_extraindicators/master/extraindicators.lua
+https://aimware.net/forum/thread/134428,[Release] Space Skybox Pack,Ronos,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Space Skybox Pack.lua
+https://aimware.net/forum/thread/145320,[Release] Lefthand knife,Akkov1337,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Lefthand knife.lua
+https://aimware.net/forum/thread/145315,[Release] No Scope Lines,Eagle,https://raw.githubusercontent.com/aimware-eagle/aimware-luas/main/noscopelines.lua
+https://aimware.net/forum/thread/145370,[Release] RGB Lines,Eagle,https://raw.githubusercontent.com/aimware-eagle/aimware-luas/main/rgb_line.lua
+https://aimware.net/forum/thread/145367,[Release] Theme Manager,Scape,https://raw.githubusercontent.com/lennonc1atwit/Luas/master/Theme%20Manager/Core.lua
+https://aimware.net/forum/thread/145139,[Release] onpeak Fakelag,Xiehwei,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] onpeak Fakelag.lua
+https://aimware.net/forum/thread/145105,[Release] Lua script downloader (fixed),Chicken4676,https://raw.githubusercontent.com/Aimware0/luascriptdownloader/main/lua_script_downloader.lua
+https://aimware.net/forum/thread/144048,[Release] midnight v1.2 [New Desync update 31120],Xiehwei,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] midnight v1.2 [New Desync update 31120].lua
+https://aimware.net/forum/thread/145211, [Release] Crosshair Settings,AnAnAn,https://raw.githubusercontent.com/AimwarePasteLua/Chineseware/master/CrosshairSettings.lua
+https://aimware.net/forum/thread/130955,[Release] Doublefire hold and toggle,nazefx,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Doublefire hold and toggle.lua
+https://aimware.net/forum/thread/145014,[Release] Animated Chroma Spread Crosshair,Rab,https://raw.githubusercontent.com/SamHoque/aw-lua-scripts/master/%5BLuaScript%5D%20Rainbow%20Spread%20CrossHair.lua
+https://aimware.net/forum/thread/144095,[Release] Quick peek lua fix ,tusharlunia9,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Quick peek lua fix .lua
+https://aimware.net/forum/thread/144909,[Release] eagle yaw,Eagle,https://raw.githubusercontent.com/aimware-eagle/aimware-luas/main/eagleyaw.lua
+https://aimware.net/forum/thread/144815,[Release] Multi lua by KoiLoi,anyád,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Multi lua by KoiLoi.lua
+https://aimware.net/forum/thread/142601,[Release] Legit Autowall,Bean07,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Legit Autowall.lua
+https://aimware.net/forum/thread/132261,[Release] BHop Hitchance,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/BHopHitchance.lua
+https://aimware.net/forum/thread/135777,[Release] Custom hitsoundskillsounds,_^^,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Custom hitsoundskillsounds.lua
+https://aimware.net/forum/thread/144799,[Release] Legit Desync (Disable on FD + angle fix),Bean07,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Legit Desync (Disable on FD + angle fix).lua
+https://aimware.net/forum/thread/144793,[Release] [Fix]Disable Legit Anti-Aim On Ping,xuekailong,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] [Fix]Disable Legit Anti-Aim On Ping.lua
+https://aimware.net/forum/thread/144771,[Release] Resizeable Menu,Squidoodle,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Resizeable Menu.lua
+https://aimware.net/forum/thread/144745,[Release] auto E on peek (useless),Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] auto E on peek (useless).lua
+https://aimware.net/forum/thread/130155,[Release] PartyManager v1.0,brokenw1nter,https://raw.githubusercontent.com/brokenw1nter/Aimware-LUAs/master/PartyManager/PartyManager.lua
+https://aimware.net/forum/thread/116236,[Release] Healthshot hitsound with fovshot,iSun,https://raw.githubusercontent.com/iSunOfficial/Aimware-luas/master/HealthshotHitmarker.lua
+https://aimware.net/forum/thread/114358,[Release] save player profiles,zRekon,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] save player profiles.lua
+https://aimware.net/forum/thread/127562,[Release] Aspect ratio for v5,adrianobessa5682,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Aspect ratio for v5.lua
+https://aimware.net/forum/thread/144521,[Release] Dynamic Scope,Giperfast.tk,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Dynamic Scope.lua
+https://aimware.net/forum/thread/128468,[Release] Desync Plus v2.0.3,stacky,https://raw.githubusercontent.com/stqcky/DesyncPlus/master/DesyncPlus.lua
+https://aimware.net/forum/thread/144376,[Release] NoScope Helper v1.1,RageHvH,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] NoScope Helper v1.1.lua
+https://aimware.net/forum/thread/143236,[Release] Airstuck,Bean07,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Airstuck.lua
+https://aimware.net/forum/thread/144469,[Release] Epacs Tweaks & Additions,Scape,https://raw.githubusercontent.com/lennonc1atwit/Luas/master/Epacs%20Tweaks/Core.lua
+https://aimware.net/forum/thread/143426,[Release] Nomad - Advanced Anti-Aim Lua [Updated 1019],PUSYBOI,https://raw.githubusercontent.com/lamarr2817/aimware/master/nomad.lua
+https://aimware.net/forum/thread/144373,[Release] Scope zoom fix for high FOV,razor50333,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Scope zoom fix for high FOV.lua
+https://aimware.net/forum/thread/129750,[Release] Legit Desync for Ragebot,Bean07,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Legit Desync for Ragebot.lua
+https://aimware.net/forum/thread/144298,[Release] [FIX] BetterUI by Flangert_o,Sl1tex,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] [FIX] BetterUI by Flangert_o.lua
+https://aimware.net/forum/thread/144300,[Release] [FIX] Fake Desync by PUSYBOI,Sl1tex,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] [FIX] Fake Desync by PUSYBOI.lua
+https://aimware.net/forum/thread/144299,[Release] [FIX] Anti-aim circle with indicators ,Sl1tex,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] [FIX] Anti-aim circle with indicators .lua
+https://aimware.net/forum/thread/140781,[Release] [FIX] Simple lagsync ,razor50333,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] [FIX] Simple lagsync .lua
+https://aimware.net/forum/thread/134416,[Release] Decoy and Smoke Owners,nazefx,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Decoy and Smoke Owners.lua
+https://aimware.net/forum/thread/138638,[Release] Auto Report for V5,Zinn,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Auto Report for V5.lua
+https://aimware.net/forum/thread/130961,[Release] Weebware,atk3001,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Weebware.lua
+https://aimware.net/forum/thread/130347,[Release] Fakewalk Lua,DjGaming,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fakewalk Lua.lua
+https://aimware.net/forum/thread/132364,[Release] Main Menu Model Changer & Fortnite Dances,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/Main%20Menu%20Model%20Changer%20%26%20Fortnite%20Dances/MainMenuModelChanger.lua
+https://aimware.net/forum/thread/144038,[Release] Enemyfriendly pingspike indicator,razor50333,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Enemyfriendly pingspike indicator.lua
+https://aimware.net/forum/thread/143637,[Release] CSGO Fun Lua,Pro_fit,https://raw.githubusercontent.com/Puch1x/csgofunlua/main/csgo_fun.lua
+https://aimware.net/forum/thread/143581,[Release] Project Alpha AntiAim presets lua,LeoDeveloper,https://raw.githubusercontent.com/Le0Developer/awluas/master/project_alpha/dist/project_alpha.lua
+https://aimware.net/forum/thread/143490,[Release] ForceMM Servers,DeadGameLUL,https://raw.githubusercontent.com/ItsCEED/Aimware-ForceMM/main/ForceMM.lua
+https://aimware.net/forum/thread/143422,[Release] Twinkling Star Spread Crosshair,PUSYBOI,https://raw.githubusercontent.com/lamarr2817/aimware/master/star-spread.lua
+https://aimware.net/forum/thread/128029,[Release] Velocity Graph V5,Kawurftha,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Velocity Graph V5.lua
+https://aimware.net/forum/thread/143119,[Release] Fake Desync,PUSYBOI,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fake Desync.lua
+https://aimware.net/forum/thread/140372,[Release] Force onshot (for the gayest of us),LeoDeveloper,https://raw.githubusercontent.com/Le0Developer/awluas/master/dist/onshot.lua
+https://aimware.net/forum/thread/132424,[Release] FOV and Viewmodel Changer (With ZoomScope Fix),atk3001,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] FOV and Viewmodel Changer (With ZoomScope Fix).lua
+https://aimware.net/forum/thread/138637,[Release] Player Profiles [V5],LeoDeveloper,https://raw.githubusercontent.com/Le0Developer/playerprofiles/master/playerprofiles_minified.lua
+https://aimware.net/forum/thread/142838,[Release] Music Kit Changer,Trollface7272,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Music Kit Changer.lua
+https://aimware.net/forum/thread/136526,[Release] Another Player List,LeoDeveloper,https://raw.githubusercontent.com/Le0Developer/awluas/master/playerlist/dist/playerlist.min.lua
+https://aimware.net/forum/thread/132345,[Release] Smoother third person,iSun,https://raw.githubusercontent.com/iSunOfficial/Aimware-luas/master/SmoothTP.lua
+https://aimware.net/forum/thread/140382,[Release] Global killsay microphone (fixed),PanSmuggler,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Global killsay microphone (fixed).lua
+https://aimware.net/forum/thread/141724,[Release] Armada - Private Anti-Aim,PUSYBOI,https://raw.githubusercontent.com/lamarr2817/aimware/master/armada.lua
+https://aimware.net/forum/thread/141807,[Release] Delayed Call,stacky,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Delayed Call.lua
+https://aimware.net/forum/thread/141663,[Release] Double Tap Fix & Switch Desync On Shot,PUSYBOI,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Double Tap Fix & Switch Desync On Shot.lua
+https://aimware.net/forum/thread/141115,[Release] MIN DAMAGE INDICATOR,thekorol,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] MIN DAMAGE INDICATOR.lua
+https://aimware.net/forum/thread/139659,[Release] Nade self,PapaEcksdee,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Nade self.lua
+https://aimware.net/forum/thread/140581,[Release] RankWins reveal on compwingman,helloabcdf123,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] RankWins reveal on compwingman.lua
+https://aimware.net/forum/thread/138826,[Release] Hit Effects Re-Code and Update,Scape,https://raw.githubusercontent.com/lennonc1atwit/Luas/master/HitEffectsRecode.lua
+https://aimware.net/forum/thread/141163,[Release] Desync Invertor Key + Invertor Mode,thekorol,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Desync Invertor Key + Invertor Mode.lua
+https://aimware.net/forum/thread/140319,[Release] Legit AA for Ragebot,helloabcdf123,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Legit AA for Ragebot.lua
+https://aimware.net/forum/thread/141222,[Release] Head on key  Override Hitbox+MinDmg+Hitchance,thekorol,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Head on key  Override Hitbox+MinDmg+Hitchance.lua
+https://aimware.net/forum/thread/120847,[Release] Automatic Resolver,Clipper,https://raw.githubusercontent.com/superyor/AutomaticResolver/master/Automatic%20Resolver.lua
+https://aimware.net/forum/thread/139091,[Release] Text Filtering Bypass,90D5p33D,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Text Filtering Bypass.lua
+https://aimware.net/forum/thread/140770,[Release] Custom Real YAW,thekorol,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Custom Real YAW.lua
+https://aimware.net/forum/thread/133660,[Release] config switcher,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] config switcher.lua
+https://aimware.net/forum/thread/99572,[Release] InfoBar [ESL Like Theme],hridayhs,https://raw.githubusercontent.com/HridayHS/InfoBar/master/InfoBar.lua
+https://aimware.net/forum/thread/139856,[Release] Legit AUTOWALL,helloabcdf123,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Legit AUTOWALL.lua
+https://aimware.net/forum/thread/139808,[Release] Dynamic FOV,helloabcdf123,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Dynamic FOV.lua
+https://aimware.net/forum/thread/140609,[Release] Disable OnUse with Desync+AA on RescueDefuse,helloabcdf123,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Disable OnUse with Desync+AA on RescueDefuse.lua
+https://aimware.net/forum/thread/131214,[Release] My Private Desync Inverter with Lagsync,idontrefund,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] My Private Desync Inverter with Lagsync.lua
+https://aimware.net/forum/thread/129159,[Release] Unoriginal LC indicator,Clipper,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Unoriginal LC indicator.lua
+https://aimware.net/forum/thread/140026,[Release] Name Spam,helloabcdf123,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Name Spam.lua
+https://aimware.net/forum/thread/130695,[Release] F12 Microphone Killsound,Bean07,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] F12 Microphone Killsound.lua
+https://aimware.net/forum/thread/127907,[Release] Vote Revealer V5,Dracer,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Vote Revealer V5.lua
+https://aimware.net/forum/thread/140310,[Release] DT Fakelag Limit,helloabcdf123,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] DT Fakelag Limit.lua
+https://aimware.net/forum/thread/140369,[Release] Custom Disable On Use w Desync,helloabcdf123,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Custom Disable On Use w Desync.lua
+https://aimware.net/forum/thread/121326,[Release] BetterESP,Clipper,https://raw.githubusercontent.com/superyor/BetterESP/master/BetterESP.lua
+https://aimware.net/forum/thread/140141,[Release] Magnet Trigger for Legitbot,helloabcdf123,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Magnet Trigger for Legitbot.lua
+https://aimware.net/forum/thread/140180,[Release] UPDATE Magnet Trigger add custom smooth,Keepertp,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] UPDATE Magnet Trigger add custom smooth.lua
+https://aimware.net/forum/thread/136185,[Release] Simple Penetration Crosshair,Zerdos,https://raw.githubusercontent.com/zer420/simple-penetration-crosshair/master/core.lua
+https://aimware.net/forum/thread/139644,[Release] Compact Spectator List,starlordaiden,https://raw.githubusercontent.com/M0nday1337/Lua-from-starlordaiden/master/Compact%20Spectator%20List.lua
+https://aimware.net/forum/thread/138881,[Release] Pacman,Cheeseot,https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Pacman.lua
+https://aimware.net/forum/thread/132175,[Release] Damage Override - Toggle Version,NeXuS1997,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Damage Override - Toggle Version.lua
+https://aimware.net/forum/thread/139490,[Release] Customisable KillSay,OriginalLuzog,https://raw.githubusercontent.com/LunarLuzogSM/Custom-Killsay/master/Customisable%20Killsay.lua
+https://aimware.net/forum/thread/135715,[Release] Crosshair Hitmarker,merda,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Crosshair Hitmarker.lua
+https://aimware.net/forum/thread/109067,[Release] Per Player ESP,Cheeseot,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Per Player ESP.lua
+https://aimware.net/forum/thread/139120,[Release] Lua & Config Search,Zerdos,https://raw.githubusercontent.com/zer420/Search-options/master/core.lua
+https://aimware.net/forum/thread/139026,[Release] HvH+,ThomasHrnec,https://raw.githubusercontent.com/cldyne/HvH-/master/HvH%2B.lua
+https://aimware.net/forum/thread/129739,[Release] NameStealer Plus,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/NameStealerPlus.lua
+https://aimware.net/forum/thread/139093,[Release] Fov Scope Fix,90D5p33D,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fov Scope Fix.lua
+https://aimware.net/forum/thread/139051,[Release] (Developer)Reload lua script on key release,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] (Developer)Reload lua script on key release.lua
+https://aimware.net/forum/thread/138980,[Release] Keybind Manager WIP,Scape,https://raw.githubusercontent.com/lennonc1atwit/Luas/master/KeybindManager.lua
+https://aimware.net/forum/thread/138935,[Release] Autohold bots,ThomasHrnec,https://raw.githubusercontent.com/cldyne/Mini-Projects/master/Autoholdbots.lua
+https://aimware.net/forum/thread/131641,[Release] Animated Fake Clantag Changer,atk3001,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Animated Fake Clantag Changer.lua
+https://aimware.net/forum/thread/136618,[Release] Legit Anti-Aim Resolver Add-on for Player List,neaB_,https://raw.githubusercontent.com/Le0Developer/playerlist/master/playerlist.lua
+https://aimware.net/forum/thread/138501,[Release] NN D0g Pack,xpoker,https://raw.githubusercontent.com/xPokerr/NN-D0g-Pack/master/NN%20D0g%20Pack.lua
+https://aimware.net/forum/thread/136632,[Release] Inventory Unlock,Sestain,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Inventory Unlock.lua
+https://aimware.net/forum/thread/138455,[Release] Disable Thirdperson on Grenade,iwannadie,https://raw.githubusercontent.com/iwannadie-mud/Aimware-FirstPerson-on-Grenade-lua/master/firstperson%20on%20grenade.lua
+https://aimware.net/forum/thread/128469,[Release] Rainbow Helper,adrianobessa5682,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Rainbow Helper.lua
+https://aimware.net/forum/thread/136420,[Release] Player List with Priority, Ragebot per Players & More,Zerdos,https://raw.githubusercontent.com/zer420/Player-List/master/core.lua
+https://aimware.net/forum/thread/137151,[Release] Menu Theme,Zerdos,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Menu Theme.lua
+https://aimware.net/forum/thread/108765,[Release] Lua Prankster (Misc. Trolling features),- Luiz,https://raw.githubusercontent.com/itisluiz/aimware_prankster/master/Prankster.lua
+https://aimware.net/forum/thread/136662,[Release] Fully Featured Vector2 LUA Class,Scape,https://raw.githubusercontent.com/lennonc1atwit/Luas/master/Vector2.lua
+https://aimware.net/forum/thread/129856,[Release] Killmarks and Killstreak Sounds,d1stracted,https://raw.githubusercontent.com/xodenretard/sounds/master/killmarks.lua
+https://aimware.net/forum/thread/89662,[Release] Baim Key + Customization,Enclusion,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Baim Key + Customization.lua
+https://aimware.net/forum/thread/130122,[RELEASE] Anti-Aim script,picocode,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[RELEASE] Anti-Aim script.lua
+https://aimware.net/forum/thread/120033,[Release] Spectator list,Giperfast.tk,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Spectator list.lua
+https://aimware.net/forum/thread/135378,[Release] Shitty fakelag on shot,nazefx,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Shitty fakelag on shot.lua
+https://aimware.net/forum/thread/135813,[Release] Pulsating Ghost Chams,nazefx,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Pulsating Ghost Chams.lua
+https://aimware.net/forum/thread/135982,[Release] Weather Info,Zerdos,https://raw.githubusercontent.com/zer420/weather-info/master/core.lua
+https://aimware.net/forum/thread/132711,[Release] Simple viewmodel changer + Asteroid  galaxy skybox,skeltalaus,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Simple viewmodel changer + Asteroid  galaxy skybox.lua
+https://aimware.net/forum/thread/135824,[Release] Volume Modifier,nazefx,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Volume Modifier.lua
+https://aimware.net/forum/thread/129780,[Release] x88Software MenuUI,w1ldac3,https://raw.githubusercontent.com/w1ldac3/x88Cheats-UI-Lua/master/Modules/x88Default.lua
+https://aimware.net/forum/thread/134019,[Release] [WIP] L.M.A.O. Framework,PUSYBOI,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] [WIP] L.M.A.O. Framework.lua
+https://aimware.net/forum/thread/135341,[Release] Advanced Weapon Zoom,90D5p33D,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Advanced Weapon Zoom.lua
+https://aimware.net/forum/thread/134270,[Release] Scoreboard Changer,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/ScoreBoardChanger.lua
+https://aimware.net/forum/thread/135160,[Release] Updated Killsound,neaB_,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Updated Killsound.lua
+https://aimware.net/forum/thread/128250,[Release] Auto Edge-Bug (updated),uvxxvu,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Auto Edge-Bug (updated).lua
+https://aimware.net/forum/thread/134829,[Release] Sync with teammate,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Sync with teammate.lua
+https://aimware.net/forum/thread/128904,[Release] Quick RageLegit Switch,DaveLTC,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Quick RageLegit Switch.lua
+https://aimware.net/forum/thread/133799,[Release] Kill Say Script ,MegaReuploads,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Kill Say Script .lua
+https://aimware.net/forum/thread/134784,[Release] Fast Autobuy,Zerdos,https://raw.githubusercontent.com/zer420/Fast-Autobuy/master/core.lua
+https://aimware.net/forum/thread/128131,[Release] AWP quick switch,adrianobessa5682,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] AWP quick switch.lua
+https://aimware.net/forum/thread/119303,[Release] Picture ESP - 1.4 - V5 Compatible,Clipper,https://raw.githubusercontent.com/superyor/pictureESP/master/Picture%20ESP.lua
+https://aimware.net/forum/thread/134620,[Release] Disable third person on grenade,Scape,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Disable third person on grenade.lua
+https://aimware.net/forum/thread/134505,[Release] Quit Game on Death,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/QuitGameOnDeath.lua
+https://aimware.net/forum/thread/134020,[Release] Null bind,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/null.lua
+https://aimware.net/forum/thread/134555,[Release] Safe mode for deletingresetting configs,Cheeseot,https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Safe%20Configs.lua
+https://aimware.net/forum/thread/134414,[Release] Double Fire Movement Fix,Zerdos,https://raw.githubusercontent.com/zer420/DT-Movement-Fix/master/core.lua
+https://aimware.net/forum/thread/134440,[Release] Much Better Money Esp,Scape,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Much Better Money Esp.lua
+https://aimware.net/forum/thread/134276,[Release] Bullet Impacts,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/BulletImpacts.lua
+https://aimware.net/forum/thread/133983,[Release] Performance Booster,Cheeseot,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Performance Booster.lua
+https://aimware.net/forum/thread/133746,[Release] Auto Stop Speed Per Weapon,atk3001,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Auto Stop Speed Per Weapon.lua
+https://aimware.net/forum/thread/133981,[Release] Disable Spectators List when noone's spectating,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/SpectatorsListDisabler.lua
+https://aimware.net/forum/thread/133949,[Release] velocity graph v5,cippak,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] velocity graph v5.lua
+https://aimware.net/forum/thread/133848,[Release] Various Target Selection Methods,Scape,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Various Target Selection Methods.lua
+https://aimware.net/forum/thread/133903,[Release] Custom Slow Walk Speed While Scoped,atk3001,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Custom Slow Walk Speed While Scoped.lua
+https://aimware.net/forum/thread/133187,[Release] Out Of FOV Indicator Extra,idontrefund,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Out Of FOV Indicator Extra.lua
+https://aimware.net/forum/thread/133729,[Release] Revolver Customization,atk3001,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Revolver Customization.lua
+https://aimware.net/forum/thread/132906,[Release] Rainbow's KeystrokesMod,proobitaz,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Rainbow's KeystrokesMod.lua
+https://aimware.net/forum/thread/133583,[Release] Toggle duck,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Toggle duck.lua
+https://aimware.net/forum/thread/133611,[Release] sanatized Player Esp Names,Scape,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] sanatized Player Esp Names.lua
+https://aimware.net/forum/thread/133404,[Release] Useless Pitch Jitter,Spekbillen,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Useless Pitch Jitter.lua
+https://aimware.net/forum/thread/133581,[Release] Discord Ping [Send Match Info To Discord Channel],hridayhsbot,https://raw.githubusercontent.com/HridayHS/aimware_lua_scripts/master/DiscordPing.lua
+https://aimware.net/forum/thread/133504,[Release] World ColorAmbient Changer,Spekbillen,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] World ColorAmbient Changer.lua
+https://aimware.net/forum/thread/133522,[Release] Chicken Esp,Scape,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Chicken Esp.lua
+https://aimware.net/forum/thread/130789,[Release] Main Menu Spinbot and Rainbow model,ShadyRetard,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Main Menu Spinbot and Rainbow model.lua
+https://aimware.net/forum/thread/127566,[Release] Fixed AutoBuy version for aimware v5,adrianobessa5682,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fixed AutoBuy version for aimware v5.lua
+https://aimware.net/forum/thread/133104,[Release] Viewmodel Changer + Zoom Changer + No Zoom,Spekbillen,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Viewmodel Changer + Zoom Changer + No Zoom.lua
+https://aimware.net/forum/thread/86031,[Release] Random killsay from list (with victim name),epicanimecheater,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Random killsay from list (with victim name).lua
+https://aimware.net/forum/thread/128592,[Release] Ammo bar,gooksmasher,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Ammo bar.lua
+https://aimware.net/forum/thread/128163,[Release] V5 Locational Hit & Headshot Indicators,okaydumso,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] V5 Locational Hit & Headshot Indicators.lua
+https://aimware.net/forum/thread/129285,[Release] Double TapFire Key,90D5p33D,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Double TapFire Key.lua
+https://aimware.net/forum/thread/130788,[Release] Kill Sounds,Lord_666,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Kill Sounds.lua
+https://aimware.net/forum/thread/132151,[Release] Rainbow Hud,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/RainbowHud.lua
+https://aimware.net/forum/thread/132811,[Release] Some other Galaxy Skybox,Name_mlg,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Some other Galaxy Skybox.lua
+https://aimware.net/forum/thread/132433,[Release] Fuck your crosshair for the spectators.,leexx,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fuck your crosshair for the spectators..lua
+https://aimware.net/forum/thread/132607,[Release] left right indicator + lby inverter,micpet,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] left right indicator + lby inverter.lua
+https://aimware.net/forum/thread/128697,[Release] Legit Anti-Aim on Ragebot with Inverter,Bean07,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Legit Anti-Aim on Ragebot with Inverter.lua
+https://aimware.net/forum/thread/132489,[Release] Transparent Chams On Scope,atk3001,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Transparent Chams On Scope.lua
+https://aimware.net/forum/thread/130264,[Release] Sync movement on top of player head,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Sync movement on top of player head.lua
+https://aimware.net/forum/thread/132396,[Release] FPS Saver,mmmmmmyes,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] FPS Saver.lua
+https://aimware.net/forum/thread/131821,[Release] Customizable Legit Anti-Aim Indicators,TheKilledDead,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Customizable Legit Anti-Aim Indicators.lua
+https://aimware.net/forum/thread/127708,[Release] BetterChams Recode Beta,Clipper,https://raw.githubusercontent.com/superyor/BetterChams/master/BetterChams.lua
+https://aimware.net/forum/thread/132190,[RELEASE] Onion's Damage Log v1.0.0,catmanformod2019,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[RELEASE] Onion's Damage Log v1.0.0.lua
+https://aimware.net/forum/thread/112575,[Release] RGB circle with collision,zRekon,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] RGB circle with collision.lua
+https://aimware.net/forum/thread/128883,[Release] OriLua,OriginalLuzog,https://raw.githubusercontent.com/LunarLuzogSM/OriLua/master/OriLua.lua
+https://aimware.net/forum/thread/131912,[Release] Rainbow88's Ragebot essentials selfleak,proobitaz,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Rainbow88's Ragebot essentials selfleak.lua
+https://aimware.net/forum/thread/109347,[Release] Defuse kit ESP (UPDATED FOR V5),Cheeseot,https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Defuse%20Kit%20ESP.lua
+https://aimware.net/forum/thread/130841,[Release] Onion's Level Bot [V5] v1.0.1,catmanformod2019,https://raw.githubusercontent.com/cyanewfag/onionsLeveler/master/onionLevel.lua
+https://aimware.net/forum/thread/131721,[Release] [Not working anymore] Animated name reverser,iSun,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] [Not working anymore] Animated name reverser.lua
+https://aimware.net/forum/thread/128202,[Release] Sniper Crosshair v5,stylerzin,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Sniper Crosshair v5.lua
+https://aimware.net/forum/thread/131384,[Release] nade throwsay,Morturem,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] nade throwsay.lua
+https://aimware.net/forum/thread/129397,[Release] Onion's HUD [V5] v2.1.5,catmanformod2019,https://raw.githubusercontent.com/cyanewfag/onionsHUD/master/onionHUD.lua
+https://aimware.net/forum/thread/131023,[Release] pastel AA will make them dump,windex6969,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] pastel AA will make them dump.lua
+https://aimware.net/forum/thread/130870,[Release] Sonar ESP,Clipper,https://raw.githubusercontent.com/superyor/Sonar-ESP/master/Sonar%20ESP.lua
+https://aimware.net/forum/thread/131191,[Release] Disable Reset & Delete buttons,stacky,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Disable Reset & Delete buttons.lua
+https://aimware.net/forum/thread/88377,[Release] [Remake] Default Crosshair on Snipers,- Luiz,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] [Remake] Default Crosshair on Snipers.lua
+https://aimware.net/forum/thread/129180,[Release] Extra ragebot settings,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Extra ragebot settings.lua
+https://aimware.net/forum/thread/127908,[Release] Fakeduck Indicator,JohnK.,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fakeduck Indicator.lua
+https://aimware.net/forum/thread/85992,[Release] Different Hitsounds,Chipss,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Different Hitsounds.lua
+https://aimware.net/forum/thread/86042,[Release] Rainbow text,Kowbra,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Rainbow text.lua
+https://aimware.net/forum/thread/86073,[Release] Rainbow ESP [EPIC],imabeanerboy,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Rainbow ESP [EPIC].lua
+https://aimware.net/forum/thread/130762,[Release] Proper nightmode,Clipper,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Proper nightmode.lua
+https://aimware.net/forum/thread/130627,[Release] Min Damage Key lua (toggle or bind) by Ryan,Ryanchiew,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Min Damage Key lua (toggle or bind) by Ryan.lua
+https://aimware.net/forum/thread/130553,[Release] @picocode Anti-aim lua with inverter,mesasha,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] @picocode Anti-aim lua with inverter.lua
+https://aimware.net/forum/thread/130141,[Release] Onion's Virulent [V5] v1.0.0,catmanformod2019,https://raw.githubusercontent.com/cyanewfag/onionsVirtulent/master/onionVirtulent.lua
+https://aimware.net/forum/thread/130451,[Release] Killsay text,Madnn,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Killsay text.lua
+https://aimware.net/forum/thread/130492,[Release] Standing and moving hitchance,konupall,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Standing and moving hitchance.lua
+https://aimware.net/forum/thread/129659,[Release] Door Spam,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/DoorSpam.lua
+https://aimware.net/forum/thread/120558,[Release] Anti-Aim Angle Lines [Updated for V5],Clipper,https://raw.githubusercontent.com/superyor/Anti-Aim-Lines/master/Anti-Aim%20Lines.lua
+https://aimware.net/forum/thread/130282,[Release] Callouts Plus,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/CalloutsPlus.lua
+https://aimware.net/forum/thread/129686,[Release] Coronavirus reminder,AppleJeb,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Coronavirus reminder.lua
+https://aimware.net/forum/thread/129880,[Release] Accuracy viewer,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Accuracy viewer.lua
+https://aimware.net/forum/thread/88472,[Release] Location Spammer,demonicpbunny,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Location Spammer.lua
+https://aimware.net/forum/thread/130257,[Release] Bullet tracers,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Bullet tracers.lua
+https://aimware.net/forum/thread/129770,[Release] QuickPeek,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] QuickPeek.lua
+https://aimware.net/forum/thread/130210,[Release] Open Menu Key Changer,stacky,https://raw.githubusercontent.com/stqcky/AimwareScripts/master/MenuOpenKey.lua
+https://aimware.net/forum/thread/128715,[Release] Fakelag Voicechat fix until polak fixed it.,Clipper,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fakelag Voicechat fix until polak fixed it..lua
+https://aimware.net/forum/thread/129904,[Release] Coronavirus in-game stats,relative,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Coronavirus in-game stats.lua
+https://aimware.net/forum/thread/96091,[Release] Simple Speclist (UPDATED FOR V5),Cheeseot,https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Simple%20Speclist.lua
+https://aimware.net/forum/thread/129801,[Release] Jumpscout fix + jumpscout hitchance,Bean07,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Jumpscout fix + jumpscout hitchance.lua
+https://aimware.net/forum/thread/129796,[Release] [Onyx] Chat Hit Log,OurmineOGTv,https://raw.githubusercontent.com/Ourmine-Onyx/aimware/main/%5BOnyx%5D%20Chat%20Hit%20Log.lua
+https://aimware.net/forum/thread/129293,[Release] Fakeduck Animation,Grieschoel,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fakeduck Animation.lua
+https://aimware.net/forum/thread/129673,[Release] Hide head from height,JohnK.,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Hide head from height.lua
+https://aimware.net/forum/thread/127691,[RELEASE] [Updated description] Manual AA with inverter [V5],drakewild*,https://raw.githubusercontent.com/DrakewildX/AIMWARE-Luas/master/drakeAA.lua
+https://aimware.net/forum/thread/129518,[Release] HitMisses Counter (AIMWARE V5),PRATINHAZ,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] HitMisses Counter (AIMWARE V5).lua
+https://aimware.net/forum/thread/129462,[Release] PNKS! match start sound,Clipper,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] PNKS! match start sound.lua
+https://aimware.net/forum/thread/128553,[Release] [Onyx] Invite Everyone,OurmineOGTv,https://raw.githubusercontent.com/Ourmine-Onyx/aimware/main/%5BOnyx%5D%20Invite%20Everyone.lua
+https://aimware.net/forum/thread/129301,[Release] Fakeduck fix for users with no fakelag,Bean07,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fakeduck fix for users with no fakelag.lua
+https://aimware.net/forum/thread/128702,[Release] Legit AA on Ragebot AutoWall(Lbot&Rbot)for V5,zxcv768973361,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Legit AA on Ragebot AutoWall(Lbot&Rbot)for V5.lua
+https://aimware.net/forum/thread/128866,[Release] Smoke on key 1.01b,AppleJeb,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Smoke on key 1.01b.lua
+https://aimware.net/forum/thread/129085,[Release] Minesweeper,Cheeseot,https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Minesweeper.lua
+https://aimware.net/forum/thread/128126,[Release] Auto Accept lua,Clipper,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Auto Accept lua.lua
+https://aimware.net/forum/thread/128975,[Release] My doodoo aa lua,TheSeekk1111,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] My doodoo aa lua.lua
+https://aimware.net/forum/thread/128906,[Release] Quick Peek A&D ,Rickyy,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Quick Peek A&D .lua
+https://aimware.net/forum/thread/128192,[Release] GLUA timers for CSGO,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] GLUA timers for CSGO.lua
+https://aimware.net/forum/thread/128811,[Release] Ragdoll manipulation for v5,Mad?,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Ragdoll manipulation for v5.lua
+https://aimware.net/forum/thread/96241,[Release] Ragdoll manipulation,Cheeseot,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Ragdoll manipulation.lua
+https://aimware.net/forum/thread/128766,[Release] sniper crosshair,Envelope,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] sniper crosshair.lua
+https://aimware.net/forum/thread/128655,[Release] Better Sound ESP,TitanumIchigo,https://raw.githubusercontent.com/H1M4W4R1/AWBSESP/master/soundesp.lua
+https://aimware.net/forum/thread/113479,[Release] Customizable LegitAA indicators and controls,Cheeseot,https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Legit%20AA%20Settings.lua
+https://aimware.net/forum/thread/128616,[Release] gamesense watermark updated,bashol1337,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] gamesense watermark updated.lua
+https://aimware.net/forum/thread/128200,[Release] Auto Accept,OurmineOGTv,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Auto Accept.lua
+https://aimware.net/forum/thread/127271,[Release] Text-UI,I_Am_The_Dragon,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Text-UI.lua
+https://aimware.net/forum/thread/128470,[Release] V5 Hitmarkers - Credits okaydumso,ZippoKs,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] V5 Hitmarkers - Credits okaydumso.lua
+https://aimware.net/forum/thread/128418,[Release] Rampage Sounds,TitanumIchigo,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Rampage Sounds.lua
+https://aimware.net/forum/thread/128456,[Release] Fake Duck indicator for V5,Chicken4676,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fake Duck indicator for V5.lua
+https://aimware.net/forum/thread/128440,[Release] AutoWall Key Bind [Update V5],AnAnAn,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] AutoWall Key Bind [Update V5].lua
+https://aimware.net/forum/thread/128386,[Release] Null in air KZ bind [v5],uvxxvu,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Null in air KZ bind [v5].lua
+https://aimware.net/forum/thread/128377,[Release] Fake scroll on Jump-Bug miss [v5],uvxxvu,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fake scroll on Jump-Bug miss [v5].lua
+https://aimware.net/forum/thread/128334,[Release] Static Jitter Desync,90D5p33D,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Static Jitter Desync.lua
+https://aimware.net/forum/thread/128123,[Release] Healthshot effect,adrianobessa5682,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Healthshot effect.lua
+https://aimware.net/forum/thread/127504,[Release] RainbowBar (v5),Exration,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] RainbowBar (v5).lua
+https://aimware.net/forum/thread/128301,[Release] WASD Indicators keystrokes [ V5 ],AnAnAn,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] WASD Indicators keystrokes [ V5 ].lua
+https://aimware.net/forum/thread/127967,[Release] Jitter for static desync,timmininim,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Jitter for static desync.lua
+https://aimware.net/forum/thread/127639,[Release] RainbowTrail (v5),Exration,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] RainbowTrail (v5).lua
+https://aimware.net/forum/thread/128101,[Release] edgebug,FrEnziedWreCKer,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] edgebug.lua
+https://aimware.net/forum/thread/128117,[Release] Damage override on button pressed,danilataraw,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Damage override on button pressed.lua
+https://aimware.net/forum/thread/128148,[Release] InfoBar (v5),Exration,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] InfoBar (v5).lua
+https://aimware.net/forum/thread/128179,[Release] Kill Effect from Godstep lua [V5],proobitaz,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Kill Effect from Godstep lua [V5].lua
+https://aimware.net/forum/thread/127925,[Release] Recoil Crosshair,Dracer,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Recoil Crosshair.lua
+https://aimware.net/forum/thread/127989,[Release] V5 Viewmodel changer, with floating point,sette,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] V5 Viewmodel changer, with floating point.lua
+https://aimware.net/forum/thread/127437,[Release] FOV Changer (V5),ItsArmiii,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] FOV Changer (V5).lua
+https://aimware.net/forum/thread/127512,[Release] FovChanger (v5),Exration,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] FovChanger (v5).lua
+https://aimware.net/forum/thread/127905,[Release] Fakelag Jitter [V5],drakewild*,https://raw.githubusercontent.com/DrakewildX/AIMWARE-Luas/master/JitterFakelag.lua
+https://aimware.net/forum/thread/127599,[Release] Simple Night mode,adrianobessa5682,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Simple Night mode.lua
+https://aimware.net/forum/thread/127877,[Release] FullBright mode for aimware v5,adrianobessa5682,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] FullBright mode for aimware v5.lua
+https://aimware.net/forum/thread/113874,[Release] Smoke timer ESP,mshkreli,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Smoke timer ESP.lua
+https://aimware.net/forum/thread/120497,[Release] Fog ESP v3 [AW V5],Giperfast.tk,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Fog ESP v3 [AW V5].lua
+https://aimware.net/forum/thread/127003,[Release] Autowall key bind lua,AnAnAn,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Autowall key bind lua.lua
+https://aimware.net/forum/thread/98571,[Release] Quick Peek v1.3 (Updated 270319),- Luiz,https://raw.githubusercontent.com/itisluiz/aimware_quickpeek/master/quickpeek.lua
+https://aimware.net/forum/thread/127418,[Release] Viewmodel Fov Changer for v5,adrianobessa5682,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] Viewmodel Fov Changer for v5.lua
+https://aimware.net/forum/thread/127502,[Release] KnifeLeft (v5),Exration,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] KnifeLeft (v5).lua
+https://aimware.net/forum/thread/101443,[Release] a&d peek, tsundere girl, no blood,ambien55,https://raw.githubusercontent.com/Aimware0/LuaLoader/main/notmyluas/[Release] a&d peek, tsundere girl, no blood.lua
