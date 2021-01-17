@@ -401,7 +401,7 @@ local function CreateScriptBox(script_name, author, script_url, thread_url, exte
 	end)
 	
 	
-	script_box.GO_objects.temp_run_btn = gui.Button(script_box.GO_objects.header_gb, "Temp run", function() 
+	script_box.GO_objects.temp_run_btn = gui.Button(script_box.GO_objects.header_gb, "临时运行", function() 
 		add_temp_lua(script_url, script_box.id)
 		
 		chicken__last_script_loaded__ = script_name
@@ -411,7 +411,7 @@ local function CreateScriptBox(script_name, author, script_url, thread_url, exte
 	end)
 	
 
-	script_box.GO_objects.unload_btn = gui.Button(script_box.GO_objects.header_gb, "Unload", function()
+	script_box.GO_objects.unload_btn = gui.Button(script_box.GO_objects.header_gb, "卸载", function()
 		if globals.CurTime() > action_delay then
 			UnloadScript(script_box.downloads_path)
 			remove_temp_lua(script_box.id)
@@ -464,7 +464,7 @@ local function CreateScriptBox(script_name, author, script_url, thread_url, exte
 	end
 
 	all_scripts = all_scripts + 1
-	all_scripts_btn_text:SetText("Online scripts (" .. all_scripts .. ")")
+	all_scripts_btn_text:SetText("在线脚本 (" .. all_scripts .. ")")
 	
 	table.insert(script_boxes, script_box)
 	
