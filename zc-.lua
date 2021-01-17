@@ -401,14 +401,15 @@ local function CreateScriptBox(script_name, author, script_url, thread_url, exte
 	end)
 	
 	
-	script_box.GO_objects.temp_run_btn = gui.Button(script_box.GO_objects.header_gb, "临时运行", function() 
+	script_box.GO_objects.temp_run_btn = gui.Checkbox(script_box.GO_objects.header_gb, "script_box.GO_objects.temp_run_btn","临时运行", 0)
+	if  script_box.GO_objects.temp_run_btn:GetValue() then
 		add_temp_lua(script_url, script_box.id)
 		
 		chicken__last_script_loaded__ = script_name
 		script_box.running = true
 		running_scripts = running_scripts + 1
 		running_btn_text:SetText("Running (" .. running_scripts .. ")")
-	end)
+	end
 	
 
 	script_box.GO_objects.unload_btn = gui.Button(script_box.GO_objects.header_gb, "卸载", function()
