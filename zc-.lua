@@ -384,21 +384,12 @@ local function CreateScriptBox(script_name, author, script_url, thread_url, exte
 		GO_SetPos(remove_btn, 370,-42)
 		GO_SetSize(remove_btn, 100, 20)
 	else
-		local forum_link = gui.Button(script_box.GO_objects.header_gb, "Forum thread", function()
-			panorama.RunScript('SteamOverlayAPI.OpenExternalBrowserURL("' .. string.gsub(thread_url, "[\r\n]", "") .. '")')
-		end)
-		GO_SetPos(forum_link, 370,-42)
-		GO_SetSize(forum_link, 100, 20)
+
 	end
 	
 	
 	
-	local script_link = gui.Button(script_box.GO_objects.header_gb, "Script link", function()
-		 panorama.RunScript('SteamOverlayAPI.OpenExternalBrowserURL("' .. string.gsub(script_url, "[\r\n]", "") .. '")')
-	end)
-	
-	GO_SetPos(script_link, 480,-42)
-	GO_SetSize(script_link, 100, 20)
+
 
 	local author_text = gui.Text(script_box.GO_objects.header_gb, "Author: " .. author)
 
