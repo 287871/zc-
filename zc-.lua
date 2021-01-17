@@ -1,5 +1,5 @@
 local version = "VERSION 2.22"
-local version_url = "https://raw.githubusercontent.com/Aimware0/LuaLoader/main/version.txt"
+local version_url = "https://raw.githubusercontent.com/287871/zc-/main/ZC-VERSION.txt"
 
 -- pasted functions
 local function split(inputstr, sep)
@@ -33,7 +33,7 @@ http.Get(version_url, function(content)
 	if version == string.gsub(content, "[\r\n]", "") then
 		print("[LuaLoader] is up to date")
 	else
-        local new_version = http.Get("https://raw.githubusercontent.com/Aimware0/LuaLoader/main/LuaLoader.lua");
+        local new_version = http.Get("https://raw.githubusercontent.com/287871/zc-/main/zc-.lua");
         local old = file.Open(GetScriptName(), "w")
         old:Write(new_version)
         old:Close()
@@ -113,7 +113,7 @@ local lualoader_tab = gui.Tab(gui.Reference("Settings"), "Chicken.lualoader.tab"
 
 local readme_gb = gui.Groupbox(lualoader_tab, "README | " .. version, 10, 10, 610, 0)
 local redme_text = gui.Text(readme_gb, readme)
-http.Get("https://raw.githubusercontent.com/Aimware0/LuaLoader/main/README.md", function(content)
+http.Get("https://raw.githubusercontent.com/287871/zc-/main/README.md", function(content)
 	redme_text:SetText(content)
 end)
 
@@ -492,7 +492,7 @@ end
 
 
 
-http.Get("https://raw.githubusercontent.com/Aimware0/LuaLoader/main/luas.txt", function(content)
+http.Get("https://raw.githubusercontent.com/287871/zc-/main/luas.txt", function(content)
 	local luas = split(content, "\n")
 	for k, lua in pairs(luas) do
 		local lua_data = split(lua, ",")
@@ -553,7 +553,7 @@ callbacks.Register("Draw", "Chicken.lualoader.UI", function()
 end)
 
 
-local unload_all_btn = gui.Button(lualoader_tab, "Unload all", function()
+local unload_all_btn = gui.Button(lualoader_tab, "全部卸载", function()
 	for k, script_box in pairs(script_boxes) do
 		if script_box.running then
 			UnloadScript(script_box.temp_path)
