@@ -1,4 +1,4 @@
-local version = "VERSION 2.22"
+local version = "VERSION 1.0"
 local version_url = "https://raw.githubusercontent.com/287871/zc-/main/ZC-VERSION.txt"
 
 -- pasted functions
