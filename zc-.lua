@@ -1,4 +1,4 @@
-local version = "VERSION 1.0"
+local version = "版本 1.0"
 local version_url = "https://raw.githubusercontent.com/287871/zc-/main/ZC-VERSION.txt"
 
 -- pasted functions
@@ -155,11 +155,11 @@ GO_SetPos(running_btn, (x * 2), 50)
 GO_SetPos(downloads_btn, (x * 3), 50)
 GO_SetPos(custom_btn, (x * 4), 50)
 
-local autorun_btn_text = gui.Text(filter_gb, "Autorun (0)")
-local all_scripts_btn_text = gui.Text(filter_gb, "Online scripts (0)")
+local autorun_btn_text = gui.Text(filter_gb, "自动运行 (0)")
+local all_scripts_btn_text = gui.Text(filter_gb, "在线脚本 (0)")
 local running_btn_text = gui.Text(filter_gb, "Running (0)")
-local downloads_btn_text = gui.Text(filter_gb, "Downloads (0)")
-local custom_btn_text = gui.Text(filter_gb, "Externally download")
+local downloads_btn_text = gui.Text(filter_gb, "下载 (0)")
+local custom_btn_text = gui.Text(filter_gb, "外部下载")
 custom_btn:SetDisabled(true)
 local x = 110
 GO_SetPos(autorun_btn_text, 22, 62)
