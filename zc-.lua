@@ -97,15 +97,7 @@ ClearTempLuas()
 file.Open(external_downloads_file, "w"):Close()
 
 
-local function GO_SetSize(GO, width, height)
-	GO:SetWidth(width)
-	GO:SetHeight(height)
-end
 
-local function GO_SetPos(GO, width, height)
-	GO:SetPosX(width)
-	GO:SetPosY(height)
-end
 
 
 local lualoader_tab = gui.Tab(gui.Reference("Settings"), "Chicken.lualoader.tab", "Lua loader")
