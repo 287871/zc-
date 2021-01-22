@@ -16,17 +16,6 @@ end
 
 
 local match = string.match
-local lower = string.lower
-
-function get_thread_id(thread_link) -- gets uid for Aimware threads urls
-	return split(thread_link, "/")[5]
-end
-
-chicken__last_script_loaded__ = '' 
-
-local function pprint(...)
-	print("[LuaLoader]", chicken__last_script_loaded__, ...)
-end
 
 -- Update
 http.Get(version_url, function(content)
@@ -43,20 +32,11 @@ http.Get(version_url, function(content)
 	end
 end)
 
-local function RemoveLineFromMultiLine(MultiLine, LineToRemove)
-	return string.gsub(MultiLine, LineToRemove .. "\n", "")
-end
-
-oReference = oReference or gui.Reference -- For printing out references to the Aimware console that other scripts use, makes it easier to find where the scripts are located in the aimware ui
-function gui.Reference(...)
-	pprint(...)
-	return oReference(...)
-end
 
 local function lualoaderFolderExists()
 	local exists = false
 	file.Enumerate(function(fname)
-		if match(fname, "/") then
+		if string.match(fname, "/") then
 			if string.sub(fname, 1, 9) == "lualoader" then
 				exists = true
 			end
@@ -95,10 +75,6 @@ if not lualoaderFolderExists() then
 end
 ClearTempLuas()
 file.Open(external_downloads_file, "w"):Close()
-
-
-
-
 
 local lualoader_tab = gui.Tab(gui.Reference("Settings"), "Chicken.lualoader.tab", "Lua loader")
 
