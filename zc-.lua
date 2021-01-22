@@ -1,4 +1,4 @@
-local version = "版本 1.0"
+local version = "版本 1.1"
 local version_url = "https://raw.githubusercontent.com/287871/zc-/main/ZC-VERSION.txt"
 
 -- Update
