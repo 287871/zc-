@@ -14,9 +14,6 @@ local function split(inputstr, sep)
 end
 -- end of paste
 
-
-local match = string.match
-
 -- Update
 http.Get(version_url, function(content)
 	if version == string.gsub(content, "[\r\n]", "") then
