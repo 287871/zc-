@@ -1,1 +1,0 @@
-https://aimware.net/forum/thread/147129,[Release] QuickPeek + Teleport (auto update added),Chicken4676,https://raw.githubusercontent.com/Aimware0/aimware_scripts/main/QuickPeek%20+%20Teleport.lua
